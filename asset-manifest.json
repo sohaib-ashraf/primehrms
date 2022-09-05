@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/primehrms/static/css/main.ccd67ef8.css",
-    "main.js": "/primehrms/static/js/main.ce3cdcc5.js",
+    "main.css": "/primehrms/static/css/main.6d324600.css",
+    "main.js": "/primehrms/static/js/main.efa6ab24.js",
     "static/media/leptop.png": "/primehrms/static/media/leptop.6b481dbf167eaf9efcb9.png",
     "static/media/sixth-img.png": "/primehrms/static/media/sixth-img.a5d189a168473a4a9525.png",
     "static/media/fifth-img.png": "/primehrms/static/media/fifth-img.ed8beb97b9eb4cfba664.png",
@@ -14,11 +14,11 @@
     "static/media/arham.png": "/primehrms/static/media/arham.4732b848632840f77244.png",
     "static/media/logo.png": "/primehrms/static/media/logo.b9cebeec2a08109ec0f8.png",
     "index.html": "/primehrms/index.html",
-    "main.ccd67ef8.css.map": "/primehrms/static/css/main.ccd67ef8.css.map",
-    "main.ce3cdcc5.js.map": "/primehrms/static/js/main.ce3cdcc5.js.map"
+    "main.6d324600.css.map": "/primehrms/static/css/main.6d324600.css.map",
+    "main.efa6ab24.js.map": "/primehrms/static/js/main.efa6ab24.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccd67ef8.css",
-    "static/js/main.ce3cdcc5.js"
+    "static/css/main.6d324600.css",
+    "static/js/main.efa6ab24.js"
   ]
 }
