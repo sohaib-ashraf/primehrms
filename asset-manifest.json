@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hrms/static/css/main.ccd67ef8.css",
+    "main.js": "/hrms/static/js/main.f1a5bf19.js",
+    "static/media/leptop.png": "/hrms/static/media/leptop.6b481dbf167eaf9efcb9.png",
+    "static/media/sixth-img.png": "/hrms/static/media/sixth-img.a5d189a168473a4a9525.png",
+    "static/media/fifth-img.png": "/hrms/static/media/fifth-img.ed8beb97b9eb4cfba664.png",
+    "static/media/screenshotTwo.png": "/hrms/static/media/screenshotTwo.d15452266c86772ceae9.png",
+    "static/media/screeenshotOne.png": "/hrms/static/media/screeenshotOne.14fd4833b3b73996feac.png",
+    "static/media/alkhidmat.png": "/hrms/static/media/alkhidmat.411f70251d6bff18ac3c.png",
+    "static/media/hero-1.png": "/hrms/static/media/hero-1.e41ccd29ea06bb84f272.png",
+    "static/media/hero-2.png": "/hrms/static/media/hero-2.255ed6f837e7ed8e2e50.png",
+    "static/media/ozi.png": "/hrms/static/media/ozi.e1856a37d01ad249b748.png",
+    "static/media/arham.png": "/hrms/static/media/arham.4732b848632840f77244.png",
+    "static/media/logo.png": "/hrms/static/media/logo.b9cebeec2a08109ec0f8.png",
+    "index.html": "/hrms/index.html",
+    "main.ccd67ef8.css.map": "/hrms/static/css/main.ccd67ef8.css.map",
+    "main.f1a5bf19.js.map": "/hrms/static/js/main.f1a5bf19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd67ef8.css",
+    "static/js/main.f1a5bf19.js"
+  ]
+}
