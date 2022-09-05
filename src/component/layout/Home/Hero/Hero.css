@@ -1,0 +1,95 @@
+.hero-buttons .first.btn {
+    background-color: var(--dark);
+    color: #fff;
+    margin-right: 20px;
+
+}
+
+section#pricing {
+    position: relative;
+}
+
+.hero-banner {
+    background-color: #f8f9fa !important;
+}
+
+.hero-buttons .second.btn {
+    box-shadow: 0 3px 8px 0 rgb(0 0 0 / 15%) !important;
+
+}
+
+.hero-buttons .btn {
+    font-size: 18px;
+    padding: 12px 32px;
+
+}
+
+.row.banner-slider-img img {
+    width: 300px !important;
+}
+
+.hero-desc {
+    margin: 2rem 0;
+}
+
+.hero-desc p {
+    font-size: 20px;
+}
+
+.hero-banner-row {
+    z-index: 2;
+    position: relative;
+}
+
+section.hero-banner {
+    position: relative;
+    padding: 10% 0 8%;
+}
+
+section.hero-banner .image-one img {
+    position: absolute;
+    width: 25%;
+    height: auto;
+    top: 5%;
+    left: -10%;
+    animation: updown 2s ease infinite;
+}
+
+.banner-slider-img {
+    padding-left: 50px !important;
+}
+
+
+.shadow-box {
+    box-shadow: 0 0.5rem 1.2rem rgb(0 0 0 / 10%), 0 2rem 3rem rgb(0 0 0 / 15%) !important;
+}
+
+
+.image-two img {
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: -120px;
+    left: 40%;
+}
+
+.image-three img {
+    position: absolute;
+    width: 50%;
+    height: auto;
+    bottom: 11%;
+    right: -23%;
+    animation: updown 2s ease infinite;
+}
+
+.image-four img {
+    position: absolute;
+    width: 13%;
+    height: auto;
+    bottom: 10%;
+    right: 43%;
+}
+
+.hero-moveable-images {
+    animation: updown 2s ease infinite;
+}

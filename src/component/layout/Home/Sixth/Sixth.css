@@ -1,0 +1,54 @@
+
+
+.screenshot-wrapper {
+    text-align: center;
+}
+
+.screenshot-wrapper .secreenshot-desc {
+    margin-top: 15px;
+}
+
+.screenshot-image-item {
+    box-shadow: 0 0.125rem 0.375rem rgb(0 0 0 / 5%), 0 0.5rem 1.2rem rgb(0 0 0 / 10%) !important;
+    position: relative;
+    padding: 15px;
+}
+
+.screenshot-image-content {
+    position: absolute;
+    bottom: 8%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    padding: 0 30px;
+}
+
+.screenshot-title {
+    font-weight: bold;
+    color: #000;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+p.screenshot-desc {
+    font-size: 15px;
+}
+
+.secreenshot-icon {
+    width: 45px;
+    height: 45px;
+    background: var(--blue);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto 0;
+    box-shadow: 3px 2px #1fa2ff45;
+}
+
+
+.secreenshot-icon svg {
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+

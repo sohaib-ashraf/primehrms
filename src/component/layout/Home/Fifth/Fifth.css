@@ -1,0 +1,42 @@
+
+
+.image-text-wrapper-first img, .image-text-wrapper-second img {
+    width: 400px !important;
+}
+
+.image-text-wrapper-first, .image-text-wrapper-second {
+    text-align: center;
+}
+.image-wrap {
+    text-align: center;
+}
+
+.image-text-content {
+    text-align: left;
+}
+
+.image-text-wrapper-second {
+    text-align: right;
+}
+
+.check_all {
+    margin-top: 2rem;
+}
+
+.icon-play {
+    width: 90px;
+    height: 90px;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left !important;
+    box-shadow: 0 0.25rem 0.5rem rgb(0 0 0 / 5%), 0 1.5rem 2.2rem rgb(0 0 0 / 10%) !important;
+}
+
+.icon-play svg {
+    color: var(--blue) !important;
+    font-size: 30px;
+}
+

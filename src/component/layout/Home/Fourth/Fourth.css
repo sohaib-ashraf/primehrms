@@ -1,0 +1,33 @@
+
+
+.client-data-wrap .clients-no {
+    font-size: 5.5rem;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color: #ced4da !important;
+    margin: 0 !important;
+}
+
+.client-data-wrap .read_more {
+    margin-top: 20px;
+}
+
+.clients-wrapper-box img {
+    width: 150px !important;
+    filter: opacity(90%);
+}
+
+.clients-wrapper-box  {
+    padding: 35px;
+    text-align: center;
+    box-shadow: 0 0.125rem 0.375rem rgb(0 0 0 / 5%), 0 0.5rem 1.2rem rgb(0 0 0 / 10%) !important;
+}
+
+.second-clients-row {
+    margin-top: 1.5rem;
+}
+
+.clients-wrapper-box  .client-name {
+    font-weight: 700;
+    color: var(--blue);
+}

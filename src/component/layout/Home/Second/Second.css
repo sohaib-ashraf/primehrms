@@ -1,0 +1,65 @@
+
+
+.client-goals-heading {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+p.clients-goal-desc {
+    margin-top: 12px;
+}
+
+.service-content {
+    padding: 35px;
+    text-align: center;
+    box-shadow: 0 0.125rem 0.375rem rgb(0 0 0 / 5%), 0 0.5rem 1.2rem rgb(0 0 0 / 10%) !important;
+}
+.icon-cirle svg {
+    color: #009eff !important;
+    font-size: 42px;
+
+}
+.services-row {
+    margin: 20px 0;
+}
+.icon-cirle {
+    width: 100px;
+    height: 100px;
+    background: #77cbff30;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.service-title .service-title-h2 {
+    font-size: 23px;
+    margin: 20px 0 10px;
+    font-weight: 600;
+}
+.learn_more-services a {
+    color: #495057 !important;
+    font-weight: 600;
+    margin: 20px 0 !important;
+}
+
+.service-content a {
+    text-decoration: none;
+}
+
+.second-icon-circle svg {
+    color: #38e197 !important;
+    font-size: 42px;
+}
+.second-icon-circle {
+    background: #abffc161;
+}
+
+.third-icon-circle {
+    background: #f6e28942;
+}
+
+.third-icon-circle svg {
+    color: #f1bb0b !important;
+    font-size: 42px;
+}
