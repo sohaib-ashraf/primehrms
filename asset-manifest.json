@@ -1,12 +1,19 @@
 {
   "files": {
-    "main.css": "/primehrms/static/css/main.6d324600.css",
-    "main.js": "/primehrms/static/js/main.efa6ab24.js",
+    "main.css": "/primehrms/static/css/main.288ca7ea.css",
+    "main.js": "/primehrms/static/js/main.fce78a2e.js",
+    "static/media/prime1.png": "/primehrms/static/media/prime1.524fdaecf6059b59aea0.png",
+    "static/media/sidebarfeature.png": "/primehrms/static/media/sidebarfeature.5ecb44821562b094eaaa.png",
     "static/media/leptop.png": "/primehrms/static/media/leptop.6b481dbf167eaf9efcb9.png",
     "static/media/sixth-img.png": "/primehrms/static/media/sixth-img.a5d189a168473a4a9525.png",
+    "static/media/contact-simple-image.jpg": "/primehrms/static/media/contact-simple-image.46430f4be4273a2456c7.jpg",
     "static/media/fifth-img.png": "/primehrms/static/media/fifth-img.ed8beb97b9eb4cfba664.png",
+    "static/media/prime2.png": "/primehrms/static/media/prime2.9af1a3676b6e866ce63e.png",
     "static/media/screenshotTwo.png": "/primehrms/static/media/screenshotTwo.d15452266c86772ceae9.png",
     "static/media/screeenshotOne.png": "/primehrms/static/media/screeenshotOne.14fd4833b3b73996feac.png",
+    "static/media/FeatureBg.jpg": "/primehrms/static/media/FeatureBg.405c38429464d8212d8e.jpg",
+    "static/media/back.png": "/primehrms/static/media/back.b262d6132e8c80510586.png",
+    "static/media/front.png": "/primehrms/static/media/front.eb84eddb7e787a866acd.png",
     "static/media/alkhidmat.png": "/primehrms/static/media/alkhidmat.411f70251d6bff18ac3c.png",
     "static/media/hero-1.png": "/primehrms/static/media/hero-1.e41ccd29ea06bb84f272.png",
     "static/media/hero-2.png": "/primehrms/static/media/hero-2.255ed6f837e7ed8e2e50.png",
@@ -14,11 +21,11 @@
     "static/media/arham.png": "/primehrms/static/media/arham.4732b848632840f77244.png",
     "static/media/logo.png": "/primehrms/static/media/logo.b9cebeec2a08109ec0f8.png",
     "index.html": "/primehrms/index.html",
-    "main.6d324600.css.map": "/primehrms/static/css/main.6d324600.css.map",
-    "main.efa6ab24.js.map": "/primehrms/static/js/main.efa6ab24.js.map"
+    "main.288ca7ea.css.map": "/primehrms/static/css/main.288ca7ea.css.map",
+    "main.fce78a2e.js.map": "/primehrms/static/js/main.fce78a2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d324600.css",
-    "static/js/main.efa6ab24.js"
+    "static/css/main.288ca7ea.css",
+    "static/js/main.fce78a2e.js"
   ]
 }
