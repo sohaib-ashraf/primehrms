@@ -1,11 +1,21 @@
 {
   "files": {
-    "main.css": "/primehrms/static/css/main.831bda8c.css",
-    "main.js": "/primehrms/static/js/main.8f94761d.js",
+    "main.css": "/primehrms/static/css/main.e93b8707.css",
+    "main.js": "/primehrms/static/js/main.d7f13865.js",
     "static/media/leptop.png": "/primehrms/static/media/leptop.e1d2159cdb7634bfd42f.png",
-    "static/media/prime1.png": "/primehrms/static/media/prime1.524fdaecf6059b59aea0.png",
-    "static/media/sidebarfeature.png": "/primehrms/static/media/sidebarfeature.5ecb44821562b094eaaa.png",
-    "static/media/sixth-img.png": "/primehrms/static/media/sixth-img.a5d189a168473a4a9525.png",
+    "static/media/sixth-img.png": "/primehrms/static/media/sixth-img.b61399e5ea0a4690c633.png",
+    "static/media/task-1.png": "/primehrms/static/media/task-1.3f3ca1a1ecf92335a98d.png",
+    "static/media/prime-4.png": "/primehrms/static/media/prime-4.3dc091a2776a2f7909e7.png",
+    "static/media/employe-2.png": "/primehrms/static/media/employe-2.4914eee0d0fab01dca7b.png",
+    "static/media/attendance-2.png": "/primehrms/static/media/attendance-2.a7c3d2aced1cbb2170f4.png",
+    "static/media/sidebarfeature.png": "/primehrms/static/media/sidebarfeature.ac5d757c04d307abeec2.png",
+    "static/media/attendance-1.png": "/primehrms/static/media/attendance-1.580570b7b954e467cddc.png",
+    "static/media/payroll-1.png": "/primehrms/static/media/payroll-1.d61bd659c957958139eb.png",
+    "static/media/task-2.png": "/primehrms/static/media/task-2.bdfb91d5fde87880cd17.png",
+    "static/media/prime-6.png": "/primehrms/static/media/prime-6.b5bb38a9a461f678e029.png",
+    "static/media/employe-1.png": "/primehrms/static/media/employe-1.238eba3f907e91a42924.png",
+    "static/media/attached.png": "/primehrms/static/media/attached.33b7fe49c0ed1e853bf5.png",
+    "static/media/payroll-2.png": "/primehrms/static/media/payroll-2.1b6bdb11678eecdefbdd.png",
     "static/media/hero-3.png": "/primehrms/static/media/hero-3.7679b856d1b673f40559.png",
     "static/media/hero-4.png": "/primehrms/static/media/hero-4.4945c9b0e1ecd2d492b1.png",
     "static/media/hero-6.png": "/primehrms/static/media/hero-6.78d7822233c9d5a57d72.png",
@@ -16,13 +26,10 @@
     "static/media/module-1.png": "/primehrms/static/media/module-1.934f907db2f7d61cfa48.png",
     "static/media/hero-2.png": "/primehrms/static/media/hero-2.35b180fade33738b1329.png",
     "static/media/module-2.png": "/primehrms/static/media/module-2.60739ae1037dcd4596f6.png",
-    "static/media/prime2.png": "/primehrms/static/media/prime2.9af1a3676b6e866ce63e.png",
     "static/media/module-3.png": "/primehrms/static/media/module-3.2a4426147f4fe4ddbbb0.png",
     "static/media/FeatureBg.jpg": "/primehrms/static/media/FeatureBg.405c38429464d8212d8e.jpg",
     "static/media/screeenshotOne.png": "/primehrms/static/media/screeenshotOne.1f69280f0e5e2035d9f3.png",
-    "static/media/back.png": "/primehrms/static/media/back.b262d6132e8c80510586.png",
     "static/media/screeenshotThree.png": "/primehrms/static/media/screeenshotThree.3906aae3143aaf32dd80.png",
-    "static/media/front.png": "/primehrms/static/media/front.eb84eddb7e787a866acd.png",
     "static/media/screeenshotFour.png": "/primehrms/static/media/screeenshotFour.e9e2cd6c7ab79826edcf.png",
     "static/media/screenshotTwo.png": "/primehrms/static/media/screenshotTwo.5fd184f34fb61a2e1a8b.png",
     "static/media/alkhidmat.png": "/primehrms/static/media/alkhidmat.411f70251d6bff18ac3c.png",
@@ -34,11 +41,11 @@
     "static/media/slick.ttf": "/primehrms/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/primehrms/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/primehrms/index.html",
-    "main.831bda8c.css.map": "/primehrms/static/css/main.831bda8c.css.map",
-    "main.8f94761d.js.map": "/primehrms/static/js/main.8f94761d.js.map"
+    "main.e93b8707.css.map": "/primehrms/static/css/main.e93b8707.css.map",
+    "main.d7f13865.js.map": "/primehrms/static/js/main.d7f13865.js.map"
   },
   "entrypoints": [
-    "static/css/main.831bda8c.css",
-    "static/js/main.8f94761d.js"
+    "static/css/main.e93b8707.css",
+    "static/js/main.d7f13865.js"
   ]
 }
